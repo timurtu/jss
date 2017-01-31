@@ -1,6 +1,6 @@
 {
   "name": "jss-node",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "main": "jss.js",
   "devDependencies": {
     "gulp": "~3.5.6",
