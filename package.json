@@ -1,6 +1,7 @@
 {
-  "name": "jss",
+  "name": "jss-node",
   "version": "0.6.0",
+  "main": "jss.min.js",
   "devDependencies": {
     "gulp": "~3.5.6",
     "gulp-uglify": "~0.2.1",
